@@ -1,6 +1,6 @@
 import imageio.v3 as iio
 
-filenames = ['Omning_It...', 'Mark...', 'Think_Mark..']
+filenames = ['Omning_It', 'Mark..', 'Just_think_a_lil.']
 images = [ ]
 
 for filename in filenames:
